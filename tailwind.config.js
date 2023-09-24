@@ -7,9 +7,6 @@ module.exports = {
     container: {
       center: true
     },
-    fontSize: {
-      base: '1rem',
-    },
     extend: {},
   },
   plugins: [],
